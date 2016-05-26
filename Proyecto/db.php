@@ -7,7 +7,7 @@
     <title>Registro</title>
   </head>
   <body class="container">
-    <h1>Sistema de Personas</h1>
+    <h1>Sistema de Personas Mejorado</h1>
     <ul class="nav nav-tabs">
       <li class="active"><a href="#">Registro</a></li>
       <li><a href="db2.php">Consulta</a></li>
