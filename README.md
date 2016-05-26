@@ -1,2 +1,0 @@
-# Proyecto
-Registro de Videojuegos
